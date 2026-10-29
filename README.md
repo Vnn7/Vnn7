@@ -33,14 +33,6 @@ Containers, integração de dados e aplicações web e mobile.
   <img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=67E8F9" alt="React Native" />
 </p>
 
-### Projetos em destaque
-
-| Projeto | O que você encontra | Tecnologias |
-| :--- | :--- | :--- |
-| **[data-ingestion-service](https://github.com/Vnn7/data-ingestion-service)** | Ingestão automatizada de dados de diferentes fontes, preparando-os para processamento, análise e armazenamento. | Python |
-| **[docker-mar](https://github.com/Vnn7/docker-mar)** | Aplicação Node/Express e MySQL em containers, com rede e recursos configurados para o ambiente. | Docker · Node.js · MySQL |
-| **[FalaBuraco-Mar](https://github.com/Vnn7/FalaBuraco-Mar)** | Aplicativo mobile desenvolvido com React Native e Expo Router. | TypeScript · React Native · Expo |
-
 <p align="center">
   <a href="https://github.com/Vnn7?tab=repositories">Explore meus repositórios →</a>
 </p>
