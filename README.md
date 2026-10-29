@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/rukia.gif" width="498" alt="Animação de Rukia em tons de roxo, lilás e azul" />
+  <img src="./assets/rukia.gif" width="100%" alt="Animação de Rukia em tons de roxo, lilás e azul" />
 </p>
 
 <p align="center">
